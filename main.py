@@ -1,6 +1,5 @@
 import os
 import pymysql
-#import MySQLdb
 import mysql.connector
 from datetime import date
 from datetime import datetime
